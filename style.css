@@ -99,6 +99,8 @@ h2 {
 .paragraphInfo {
 	padding: 35px;
 	margin: 0px;
+	font-family: "Encode Sans Condensed", sans-serif;
+	font-size: 18px;
 }
 
 .video {
